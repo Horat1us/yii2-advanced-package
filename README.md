@@ -8,7 +8,7 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 [![Latest Stable Version](https://poser.pugx.org/horat1us/yii2-advanced-package/v/stable.png)](https://packagist.org/packages/horat1us/yii2-advanced-package)
 [![Total Downloads](https://poser.pugx.org/horat1us/yii2-advanced-package/downloads.png)](https://packagist.org/packages/horat1us/yii2-advanced-package)
-[![Build Status](https://travis-ci.org/horat1us/yii2-advanced-package.svg?branch=master)](https://travis-ci.org/horat1us/yii2-advanced-package)
+[![Build Status](https://travis-ci.org/Horat1us/yii2-advanced-package.svg?branch=master)](https://travis-ci.org/Horat1us/yii2-advanced-package)
 [![codecov](https://codecov.io/gh/Horat1us/yii2-advanced-package/branch/master/graph/badge.svg)](https://codecov.io/gh/Horat1us/yii2-advanced-package)
 
 ## Structure
