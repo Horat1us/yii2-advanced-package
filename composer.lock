@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3439f0964fd9052bf53764aec9a55016",
+    "content-hash": "0181cc81095198e297e990be429b4c1d",
     "packages": [
         {
             "name": "bower-asset/inputmask",
@@ -418,44 +418,6 @@
                 "yii2"
             ],
             "time": "2016-12-20T13:26:02+00:00"
-        },
-        {
-            "name": "yiisoft/yii2-phpunit",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Horat1us/yii2-phpunit.git",
-                "reference": "53c9ce124b3bfac1b4fc04e7e4b761c70a24af70"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Horat1us/yii2-phpunit/zipball/53c9ce124b3bfac1b4fc04e7e4b761c70a24af70",
-                "reference": "53c9ce124b3bfac1b4fc04e7e4b761c70a24af70",
-                "shasum": ""
-            },
-            "require": {
-                "yiisoft/yii2": "~2.0.13.1"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^6.5"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "yii\\phpunit\\": "src/"
-                }
-            },
-            "authors": [
-                {
-                    "name": "Alexander Letnikow",
-                    "email": "reclamme@gmail.com"
-                }
-            ],
-            "description": "Yii 2 PHPUnit compatibility layer and enhancements",
-            "support": {
-                "source": "https://github.com/Horat1us/yii2-phpunit/tree/master"
-            },
-            "time": "2018-01-02T18:49:11+00:00"
         }
     ],
     "packages-dev": [
@@ -1915,6 +1877,44 @@
                 "validate"
             ],
             "time": "2016-11-23T20:04:58+00:00"
+        },
+        {
+            "name": "yiisoft/yii2-phpunit",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Horat1us/yii2-phpunit.git",
+                "reference": "53c9ce124b3bfac1b4fc04e7e4b761c70a24af70"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Horat1us/yii2-phpunit/zipball/53c9ce124b3bfac1b4fc04e7e4b761c70a24af70",
+                "reference": "53c9ce124b3bfac1b4fc04e7e4b761c70a24af70",
+                "shasum": ""
+            },
+            "require": {
+                "yiisoft/yii2": "~2.0.13.1"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "yii\\phpunit\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Alexander Letnikow",
+                    "email": "reclamme@gmail.com"
+                }
+            ],
+            "description": "Yii 2 PHPUnit compatibility layer and enhancements",
+            "support": {
+                "source": "https://github.com/Horat1us/yii2-phpunit/tree/master"
+            },
+            "time": "2018-01-02T18:49:11+00:00"
         }
     ],
     "aliases": [],
