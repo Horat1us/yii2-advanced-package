@@ -9,6 +9,8 @@ use yii\test\ActiveFixture;
 /**
  * Class ExampleRecordFixture
  * @package Horat1us\Package\Tests\Fixtures
+ *
+ * @internal
  */
 class ExampleRecordFixture extends ActiveFixture
 {

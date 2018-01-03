@@ -9,6 +9,8 @@ use yii\phpunit\TestCase;
 /**
  * Class AbstractTestCase
  * @package Horat1us\Package\Tests
+ *
+ * @internal
  */
 abstract class AbstractTestCase extends TestCase
 {

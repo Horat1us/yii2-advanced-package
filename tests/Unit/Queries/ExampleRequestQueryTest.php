@@ -9,6 +9,8 @@ use Horat1us\Package\Tests\Fixtures\ExampleRecordFixture;
 /**
  * Class ExampleRequestQueryTest
  * @package Horat1us\Package\Tests\Queries
+ *
+ * @internal
  */
 class ExampleRequestQueryTest extends AbstractTestCase
 {
